@@ -2,6 +2,16 @@
 
 Soy un desarrollador con pasión por crear soluciones web y móviles utilizando las últimas tecnologías. Me especializo en desarrollo full-stack, con un fuerte enfoque en **React**, **React Native**, **Next.js**, **Node.js**, y otras herramientas modernas como **JavaScript** y **TypeScript**.
 
+### Tecnologías que domino:
+- **Frontend:** React, Next.js, JavaScript, TypeScript
+- **Mobile:** React Native
+- **Backend:** Node.js
+- **Herramientas y control de versiones:** Git, GitHub
+
+  
+### Proyectos destacados:
+- [Nombre del Proyecto 1](URL) - Breve descripción del proyecto y las tecnologías que usaste.
+- [Nombre del Proyecto 2](URL) - Breve descripción del proyecto y las tecnologías que usaste.
 
 
 <h3>Things I code with</h3>
@@ -32,3 +42,8 @@ Soy un desarrollador con pasión por crear soluciones web y móviles utilizando 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+### Contacto:
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Correo](mailto:tuemail@ejemplo.com)
+
