@@ -1,7 +1,7 @@
 ## Hola! 👋 Soy Adrian  
 ### Contacto:   
-- [LinkedIn] (linkedin.com/in/adrian-perez-santana-350419230)  
-- [Web] (www.adrian-perez.es)
+- [LinkedIn](https://www.linkedin.com/in/adrian-perez-santana-350419230)  
+- [Web](https://www.adrian-perez.es)
 
 Soy un desarrollador con pasión por crear soluciones web y móviles utilizando las últimas tecnologías. Me especializo en desarrollo full-stack, 
 con un fuerte enfoque en **React**, **React Native**, **Next.js**, **Node.js**, y otras herramientas modernas como **JavaScript** y **TypeScript**.
