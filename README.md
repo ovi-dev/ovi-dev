@@ -1,5 +1,6 @@
 ## Hola! 👋 Soy Adrian  
-### Contacto:   - [LinkedIn](linkedin.com/in/adrian-perez-santana-350419230)  
+### Contacto:   
+- [LinkedIn](linkedin.com/in/adrian-perez-santana-350419230)  
 - [Web](www.adrian-perez.es)
 
 Soy un desarrollador con pasión por crear soluciones web y móviles utilizando las últimas tecnologías. Me especializo en desarrollo full-stack, 
