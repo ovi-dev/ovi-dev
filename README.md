@@ -4,7 +4,8 @@
 - [Web](https://www.adrian-perez.es)
 
 Soy un desarrollador con pasión por crear soluciones web y móviles utilizando las últimas tecnologías. Me especializo en desarrollo full-stack, 
-con un fuerte enfoque en **React**, **React Native**, **Next.js**, **Node.js**, y otras herramientas modernas como **JavaScript** y **TypeScript**.
+con un fuerte enfoque en **React**, **React Native**, **Next.js**, **Node.js**, y otras herramientas modernas como **JavaScript**  **TypeScript**
+**Docker**  **SQL**  **Git**  **Tailwind css**  **Postgresql**.
 
 ### Tecnologías que domino:
 - **Frontend:** React, Next.js, JavaScript, TypeScript
