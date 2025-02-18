@@ -3,13 +3,13 @@
 - [LinkedIn](https://www.linkedin.com/in/adrian-perez-santana-350419230)  
 - [Web](https://www.adrian-perez.es)
 
-Soy un desarrollador con pasión por crear soluciones web y móviles utilizando las últimas tecnologías. Me especializo en desarrollo full-stack, 
-con un fuerte enfoque en **React**, **React Native**, **Next.js**, **Node.js**, y otras herramientas modernas como **JavaScript**  **TypeScript**
-**Docker**  **SQL**  **Git**  **Tailwind css**  **Postgresql**.
+Soy un desarrollador web y móvil apasionado, especializado en **React**, **ReactNative**, **Next.js** y **Node.js**, con experiencia en tecnologías modernas como **TypeScript**, **JavaScript**, **Docker**, **SQL**, **Git**, **TailwindCSS** y **PostgreSQL**.
+Me enfoco en crear experiencias de usuario fluidas y funcionales, aprovechando las últimas tecnologías para desarrollar soluciones escalables, eficientes y de alto impacto. Con un fuerte compromiso con la mejora continua, busco desafíos donde pueda seguir creciendo y aportar valor con mi conocimiento y experiencia. 
+
 
 ### Tecnologías que domino:
 - **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Mobile:** React Native
+- **Mobile:** React Native y Expo
 - **Backend:** Node.js
 - **Herramientas y control de versiones:** Git, GitHub
 
